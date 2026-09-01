@@ -253,17 +253,15 @@ Key discoveries from analyzing **Project - 1.xlsx**:
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for full details.
-
-```text
 MIT License — Free to use, modify, and distribute with attribution.
 
 ---
 
 ## 👤 Author
-
+```text
 <div align="center">
 
-### Ayush Isamaliya
+### Sneha Gupta
 
 [![GitHub](https://img.shields.io/badge/GitHub-isamaliya16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamaliya16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-isamaliya-686533312/)
@@ -275,11 +273,11 @@ MIT License — Free to use, modify, and distribute with attribution.
 **🛠️ Skills:** Excel · VLOOKUP · Data Analytics · Python · Dashboard Design
 
 </div>
-
+```
 ---
 
-##🙏Acknowledgements
-
+## 🙏Acknowledgements
+```text
 Special thanks to the following resources and communities:
 
 - 📚 [Microsoft Excel Documentation](https://support.microsoft.com/en-us/excel) — Official Excel functions reference
@@ -295,6 +293,6 @@ Special thanks to the following resources and communities:
 *Made with ❤️ and ☕ — Last updated: September 2026*
 
 </div>
-
+```
 ---
 
