@@ -173,8 +173,8 @@ The **Sales Data** module tracks regional transactions, product distributions, a
 | **Dynamic Reference** | `=OFFSET(Starting_Cell, Row_Offset, Col_Offset)` | Dynamically references transaction figures |
 | **Regional Aggregation** | `=SUMIF(Region_Range, "South", Amount_Range)` | Aggregates revenue by geographic territory |
 
-Sample Transaction Table:
-
+### Sample Transaction Table:
+```text
 +----------+----------+--------+-------------+--------+------------+
 | Sales ID | Product  | Region | Salesperson | Amount | Date       |
 +----------+----------+--------+-------------+--------+------------+
@@ -182,7 +182,7 @@ Sample Transaction Table:
 | 2002     | Printer  | West   | Person 2    |$17,428 | 2023-01-16 |
 | 2003     | Mouse    | South  | Person 3    |$23,672 | 2023-01-31 |
 +----------+----------+--------+-------------+--------+------------+
-
+```
 ---
 
 ## 👥 Part C — Employee & HR Analytics
@@ -202,7 +202,8 @@ The **Employee Data** module handles corporate workforce records. It provides dy
 | **Current Date** | `=TODAY()` | Returns system current date dynamically |
 | **Years Since Joining** | `=DATEDIF(Joining_Date, TODAY(), "Y")` | Calculates tenure in years |
 
-Sample Employee Record:
+### Sample Employee Record:
+```text
 +-------------+------------+------------+--------+--------------+---------------------+
 | Employee ID | Name       | Department | Salary | Joining Date | Years Since Joining |
 +-------------+------------+------------+--------+--------------+---------------------+
@@ -210,7 +211,7 @@ Sample Employee Record:
 | 3002        | Employee 2 | Finance    | $31,943| 2015-09-08   | 11 Years            |
 | 3003        | Employee 3 | HR         | $63,374| 2016-05-15   | 10 Years            |
 +-------------+------------+------------+--------+--------------+---------------------+
-
+```
 ---
 
 ## 🛠️ Tech Stack & Excel Functions
