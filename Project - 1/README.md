@@ -79,6 +79,7 @@ The goal is to demonstrate **mastery of Excel analytical techniques, lookup logi
 ---
 
 ## 🏗️ Project Structure
+```text
 
 📦 Excel-Data-Analysis-Project/
 │
@@ -88,11 +89,11 @@ The goal is to demonstrate **mastery of Excel analytical techniques, lookup logi
 │   └── 📑 Employee Data         ← HR Metrics, Salaries & Date Analytics
 │
 └── 📄 README.md                 ← Complete Project Documentation
-
+```
 ---
 
 ## 🔄 Project Workflow
-
+```text
 Raw Data Input (Excel Workbook)
               │
               ▼
@@ -121,7 +122,7 @@ Raw Data Input (Excel Workbook)
 ┌─────────────────────────────────────────┐
 │    Summary Insights & Metrics Output    │
 └─────────────────────────────────────────┘
-
+```
 ---
 
 ## 🎓 Part A — Student Grade Analysis
