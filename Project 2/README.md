@@ -327,10 +327,10 @@ The Pivot Table provides a quick comparison of sales performance across differen
 
 The Pivot Table summarizes total sales by both **Region** and **Product Category**, making it easy to compare regional performance and identify strong-performing product categories.
 
-`Pivot Table — Total Sales by Region`
+## `Pivot Table — Total Sales by Region`
 <img width="1351" height="497" alt="Screenshot 2026-09-12 131257" src="https://github.com/user-attachments/assets/0987d8ca-743c-461c-84d5-fbccf1c6f8b7" />
 
-`Pivot Table - Total Sales by Product Category`
+## `Pivot Table - Total Sales by Product Category`
 <img width="1107" height="430" alt="Screenshot 2026-09-12 131410" src="https://github.com/user-attachments/assets/52202972-4d15-40c5-a70c-a27899e7aa9a" />
 
 
@@ -364,7 +364,7 @@ The regional totals analyzed include:
 - South
 - West
 
-`Bar Chart — Total Sales by Region`
+## `Bar Chart — Total Sales by Region`
 <img width="777" height="390" alt="Screenshot 2026-09-12 131952" src="https://github.com/user-attachments/assets/f0a91ae6-ce2b-4d14-85bb-3fd218a1b48a" />
 
 
@@ -407,6 +407,204 @@ The categories include:
 
 This visualization makes it easy to compare the relative contribution of each product category.
 
-`Pie Chart — Total Sales by Product Category
+## `Pie Chart — Total Sales by Product Category`
 <img width="1231" height="603" alt="Screenshot 2026-09-12 132146" src="https://github.com/user-attachments/assets/d133fd1a-4bc3-4024-8a9a-1c8f90527e9a" />
-`
+
+---
+
+# 📊 Dashboard
+
+A professional **Sales & Profit Dashboard** was created to bring important KPIs and visualizations together in one place.
+
+The dashboard includes:
+
+### Key Performance Indicators
+
+- **Total Sales:** 195,217.80
+- **Total Profit:** 68,287.01
+- **Total Quantity:** 1,999
+- **Average Discount:** 9.725%
+
+### Interactive Region Selection
+
+A **Data Validation dropdown** was added for selecting a region.
+
+The dashboard dynamically displays the selected region in the title, for example:
+
+**Total Sales by Region - East**
+
+---
+
+# 📖 Data Storytelling
+
+The dashboard converts raw sales transactions into a meaningful business story.
+
+Instead of looking at hundreds of individual transactions, management can quickly understand:
+
+- 📊 Overall sales performance
+- 💰 Overall profitability
+- 🌍 Regional sales contribution
+- 📦 Product-category contribution
+- 📈 Monthly sales movement
+- 👥 Customer value
+- 🏷️ Discount impact
+- 🎯 Key performance indicators
+
+This makes the analysis more useful for **business decision-making** by presenting important information in a clear, visual, and easy-to-understand format.
+
+---
+
+# 🔍 Key Business Insights
+
+Based on the analysis, several useful observations can be made:
+
+### 💰 Sales Performance
+
+The dataset generated approximately **195K in total sales**, indicating the overall sales volume across the analyzed transactions.
+
+### 📈 Profitability
+
+The total profit is approximately **68K**, showing that the transactions generated a significant positive contribution.
+
+### 🌎 Regional Performance
+
+Regional analysis shows that sales performance differs across Central, East, North, South, and West.
+
+The Pivot Table and Bar Chart make these differences easier to compare.
+
+### 🛍️ Product Performance
+
+Books, Clothing, Electronics, Furniture, and Office Supplies contribute differently to total sales.
+
+The Pie Chart provides a visual comparison of their contribution.
+
+### 📅 Monthly Performance
+
+The Monthly Sales Trend and Sales Growth analysis help identify periods of increasing and decreasing sales.
+
+### 👥 Customer Analysis
+
+Top customer and high-value customer analysis helps identify customers who contribute significantly to revenue.
+
+---
+
+# 🧠 Skills Demonstrated
+
+This project demonstrates practical knowledge of:
+
+- 📊 Data Cleaning & Organization
+- 📋 Excel Tables
+- ➕ Data Aggregation
+- 🎨 Conditional Formatting
+- 🔄 What-If Analysis
+- 📈 Statistical Analysis
+- 📉 Regression Analysis
+- 👥 Customer Analysis
+- 📌 Pivot Tables
+- 📊 Data Visualization
+- 📋 Dashboard Creation
+- 📖 Data Storytelling
+- 💼 Business Analysis
+- ⚡ Interactive Excel Reporting
+
+---
+
+# 📁 Workbook Structure
+
+The Excel workbook is organized into separate sheets for better usability.
+
+### `Project Instructions`
+
+Contains the project requirements and task instructions.
+
+### `Dataset`
+
+Contains the original sales transaction data organized as an Excel Table.
+
+### `Main_Task`
+
+Contains calculations, task outputs, analysis tables, and supporting formulas.
+
+### `Pivot_Table`
+
+Contains Pivot Table analysis and supporting visualizations.
+
+### `Dashboard`
+
+Contains the final interactive Sales & Profit Dashboard and visual KPI analysis.
+
+---
+
+# 🚀 Conclusion
+
+This project demonstrates how **Microsoft Excel** can be used as a powerful data analysis and business intelligence tool.
+
+Starting from raw sales transactions, the project applies formulas, statistical techniques, What-If Analysis, Pivot Tables, charts, and dashboard design to generate meaningful business insights.
+
+The final dashboard provides a concise and interactive view of:
+
+**Sales → Profit → Customers → Regions → Products → Trends**
+
+This project strengthened practical skills in **Excel Data Analysis, Business Intelligence, Data Visualization, and Data Storytelling**.
+
+---
+
+# ⭐ Project Highlights
+
+| Area | Technique |
+|------|-----------|
+| Customer Analysis | `SUMIF()`, `INDEX()`, `MATCH()`, `FILTER()` |
+| Profit Analysis | What-If Analysis |
+| Statistical Analysis | Descriptive Statistics |
+| Regression | Data Analysis ToolPak |
+| Monthly Analysis | `SUMIFS()`, `EDATE()` |
+| Timestamp | `NOW()` |
+| Regional Analysis | Pivot Table |
+| Product Analysis | Pivot Table + Pie Chart |
+| Visualization | Bar, Line & Pie Charts |
+| Dashboard | KPI + Data Validation + Charts |
+| Data Storytelling | Business Insights |
+
+---
+
+# 🎯 Project Outcome
+
+This project successfully demonstrated the practical application of **Microsoft Excel for Data Analysis and Business Intelligence**.
+
+Through this project, I was able to:
+
+- Analyze and organize a real-world sales dataset.
+- Identify top and high-value customers.
+- Perform What-If Analysis to understand discount impact on profit.
+- Apply Descriptive Statistics and Regression Analysis.
+- Analyze monthly sales and growth.
+- Create Pivot Tables for regional and product analysis.
+- Build Bar, Line, and Pie Charts for data visualization.
+- Create an interactive Sales & Profit Dashboard.
+- Use Data Validation for interactive reporting.
+- Convert raw data into meaningful business insights.
+- Present analytical findings through effective Data Storytelling.
+
+Overall, the project improved my practical skills in **Excel Data Analysis, Statistical Analysis, Data Visualization, Dashboard Development, Business Intelligence, and Data Storytelling**.
+
+> **The final outcome is a complete and interactive Excel-based sales analysis solution that transforms raw transaction data into meaningful, decision-ready business information.**
+
+---
+
+---
+
+<div align="center">
+
+# 👩‍💻 Author
+
+**Name:** Sneha Gupta  
+**Project:** Excel Data Analysis — Project 2  
+**Course:** Data Analysis  
+**Tool Used:** Microsoft Excel  
+
+This project was created as part of a practical **Excel Data Analysis** project to demonstrate skills in data analysis, statistical analysis, visualization, dashboard creation, and business storytelling.
+
+</div>
+
+---
+
