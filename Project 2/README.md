@@ -1,7 +1,17 @@
+<div align="center">
+  
 # 📊 Sales & Profit Analyzer — Excel Data Analysis Project 2
+
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Pivots_%26_Formulas-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://office.com)
+[![Functions](https://img.shields.io/badge/Excel_Functions-VLOOKUP_%7C_OFFSET_%7C_COUNTIF-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://office.com)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Interactive%20Reports-9C27B0?style=for-the-badge&logo=databricks&logoColor=white)](https://office.com)
+
+<br/>
 
 > A comprehensive Microsoft Excel data analysis project focused on sales, profit, customer behavior, regional performance, product-category analysis, What-If Analysis, statistical analysis, Pivot Tables, charts, and an interactive dashboard.
 
+</div>
 ---
 
 ## 📌 Project Overview
