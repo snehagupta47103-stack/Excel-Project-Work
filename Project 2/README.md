@@ -364,9 +364,9 @@ The regional totals analyzed include:
 - South
 - West
 
-`Bar Chart — Total Sales by Region
+`Bar Chart — Total Sales by Region`
 <img width="777" height="390" alt="Screenshot 2026-09-12 131952" src="https://github.com/user-attachments/assets/f0a91ae6-ce2b-4d14-85bb-3fd218a1b48a" />
-`
+
 
 ---
 
@@ -385,9 +385,9 @@ It helps identify:
 
 This visualization is useful for understanding the overall sales trend across different months.
 
-`Line Chart — Monthly Sales Trend
+##`Line Chart — Monthly Sales Trend`
 <img width="1746" height="523" alt="Screenshot 2026-09-12 132108" src="https://github.com/user-attachments/assets/dee5f79b-2bce-4427-8885-b6ae8f41cc46" />
-`
+
 
 ---
 
