@@ -385,7 +385,7 @@ It helps identify:
 
 This visualization is useful for understanding the overall sales trend across different months.
 
-##`Line Chart — Monthly Sales Trend`
+## `Line Chart — Monthly Sales Trend`
 <img width="1746" height="523" alt="Screenshot 2026-09-12 132108" src="https://github.com/user-attachments/assets/dee5f79b-2bce-4427-8885-b6ae8f41cc46" />
 
 
