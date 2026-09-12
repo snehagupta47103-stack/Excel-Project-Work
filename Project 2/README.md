@@ -20,20 +20,26 @@ This project is designed to analyze a sales dataset using advanced Microsoft Exc
 
 The project transforms raw transactional data into meaningful business insights through:
 
-- Conditional Formatting
-- What-If Analysis
-- Data Analysis ToolPak
-- Linear Regression
-- Descriptive Statistics
-- Monthly Sales Growth Analysis
-- Timestamp Creation
-- Customer Value Analysis
-- Pivot Tables
-- Bar Charts
-- Line Charts
-- Pie Charts
-- Interactive Dashboard
-- Data Storytelling
+- [Conditional Formatting](#-conditinal_formatting).
+- [What-If Analysis](#-what-if_analysis).
+- [Data Analysis ToolPak](#-data_analysis_toolpak).
+- [Linear Regression](#-linear_regression).
+- [Descriptive Statistics](#-descriptive_statistics).
+- [Monthly Sales Growth Analysis](#-monthly_sales_growth_analysis).
+- [Timestamp Creation](#-timestamp_creation).
+- [Customer Value Analysis](#-customer_value_analysis).
+- [Pivot Tables](#-pivot_tables).
+- [Bar Charts](#-bar_charts).
+- [Line Charts](#-line_charts).
+- [Pie Charts](#-pie_charts).
+- [Interactive Dashboard](#-interactive_dashboard).
+- [Data Storytelling](#-data_storytelling).
+- [Key Business Insights](#-key_business_insights).
+- [Skill Demonstarted](#-skill_demonstrated).
+- [Workbook Structure](#-workbook_structure).
+- [Conclusion](#-conclusion).
+- [Project Highlights](#-project_highlights).
+- [Author](#-author).
 
 The final outcome is an Excel-based **Sales & Profit Dashboard** that provides a clear and visual overview of business performance.
 
