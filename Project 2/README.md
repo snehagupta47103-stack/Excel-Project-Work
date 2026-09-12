@@ -447,7 +447,9 @@ A **Data Validation dropdown** was added for selecting a region.
 
 The dashboard dynamically displays the selected region in the title, for example:
 
-**Total Sales by Region - East**
+## `Total Sales by Region - East`
+<img width="872" height="635" alt="Screenshot 2026-09-12 140222" src="https://github.com/user-attachments/assets/daccf4cc-ba6c-4e2d-bdfe-0f2eab1d69f3" />
+
 
 ---
 
